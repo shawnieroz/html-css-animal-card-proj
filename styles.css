@@ -1,0 +1,47 @@
+/* add your CSS here */
+
+h3 {
+    color: rgb(61, 145, 176);
+}
+img {
+    width: 300px;
+    padding: 0 5px 0 5px;
+    border-radius: 30px;
+    
+    padding: 5px;
+}
+
+.facts {
+ font-style: italic ;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+   
+}
+
+.card {
+    border: 1px solid rgb(5, 123, 143);
+    padding: 20px;
+    width: 330px;
+    background-color: rgb(245, 235, 223);
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(93, 166, 188);
+}
+
+.box-facts {
+    border: 2px solid white;
+    padding: 20px;
+    width: 260px;
+    margin-left: 5px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+
+.descritption {
+    text-align: center;
+}
